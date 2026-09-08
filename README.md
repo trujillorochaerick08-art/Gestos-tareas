@@ -16,3 +16,6 @@ Preparar la estructura inicial de un proyecto utilizando control de versiones.
  Erick Trujillo 
  ## estado del proyecto 
  proyecto en etapa inicial 
+ ## Control de versiones 
+ 
+Este proyecto utiliza Git para el control de versiones y GitHub como repositorio remoto.
