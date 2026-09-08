@@ -14,3 +14,5 @@ Preparar la estructura inicial de un proyecto utilizando control de versiones.
  - GitHub
  ## Autor 
  Erick Trujillo 
+ ## estado del proyecto 
+ proyecto en etapa inicial 
